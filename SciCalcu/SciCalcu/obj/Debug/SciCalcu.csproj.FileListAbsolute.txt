@@ -1,0 +1,7 @@
+C:\Users\Ashley\source\repos\SciCalcu\SciCalcu\bin\Debug\SciCalcu.exe.config
+C:\Users\Ashley\source\repos\SciCalcu\SciCalcu\bin\Debug\SciCalcu.exe
+C:\Users\Ashley\source\repos\SciCalcu\SciCalcu\bin\Debug\SciCalcu.pdb
+C:\Users\Ashley\source\repos\SciCalcu\SciCalcu\obj\Debug\SciCalcu.csproj.AssemblyReference.cache
+C:\Users\Ashley\source\repos\SciCalcu\SciCalcu\obj\Debug\SciCalcu.csproj.CoreCompileInputs.cache
+C:\Users\Ashley\source\repos\SciCalcu\SciCalcu\obj\Debug\SciCalcu.exe
+C:\Users\Ashley\source\repos\SciCalcu\SciCalcu\obj\Debug\SciCalcu.pdb
